@@ -10,7 +10,7 @@
 
 # Fruitzy Fruit Game
 
-Game HTML 5 berbasis web dibuat dengan Construct 3. [Demo](https://fruitzy.ardeanstudio.co/)
+Game HTML 5 berbasis web dibuat dengan Construct 3. [Coba Demo Disini](https://fruitzy.ardeanstudio.co/)
 
 
 ## Screenshots
